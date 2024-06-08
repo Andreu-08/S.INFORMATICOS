@@ -1,0 +1,91 @@
+Informacion sobre la configuracion de red
+
+Configuraci�n IP de Windows
+
+   Nombre de host. . . . . . . . . : LAPTOPMSI-ANDREU
+   Sufijo DNS principal  . . . . . : 
+   Tipo de nodo. . . . . . . . . . : h�brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+   Lista de b�squeda de sufijos DNS: INTRANET
+
+Adaptador de Ethernet vEthernet (WSL (Hyper-V firewall)):
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   Descripci�n . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Direcci�n f�sica. . . . . . . . . . . . . : 00-15-5D-60-19-D5
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci�n autom�tica habilitada . . . : s�
+   V�nculo: direcci�n IPv6 local. . . : fe80::2f58:be72:9934:c055%47(Preferido) 
+   Direcci�n IPv4. . . . . . . . . . . . . . : 172.26.32.1(Preferido) 
+   M�scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 788534621
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2C-5E-CF-81-60-E9-AA-CA-BF-A7
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   Descripci�n . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Direcci�n f�sica. . . . . . . . . . . . . : 0A-00-27-00-00-0C
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci�n autom�tica habilitada . . . : s�
+   V�nculo: direcci�n IPv6 local. . . : fe80::d84b:7208:2dc9:7493%12(Preferido) 
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido) 
+   M�scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 722075687
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2C-5E-CF-81-60-E9-AA-CA-BF-A7
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   Descripci�n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Direcci�n f�sica. . . . . . . . . . . . . : 62-E9-AA-CA-9F-87
+   DHCP habilitado . . . . . . . . . . . . . : s�
+   Configuraci�n autom�tica habilitada . . . : s�
+
+Adaptador de LAN inal�mbrica Conexi�n de �rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   Descripci�n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Direcci�n f�sica. . . . . . . . . . . . . : 62-E9-AA-CA-8F-97
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci�n autom�tica habilitada . . . : s�
+
+informacion sobre la configuracion de red conectado al wifi del IES
+Adaptador de LAN inal�mbrica Wi-Fi:
+
+   Sufijo DNS espec�fico para la conexi�n. . : INTRANET
+   Descripci�n . . . . . . . . . . . . . . . : RZ608 Wi-Fi 6E 80MHz
+   Direcci�n f�sica. . . . . . . . . . . . . : 60-E9-AA-CA-BF-A7
+   DHCP habilitado . . . . . . . . . . . . . : s�
+   Configuraci�n autom�tica habilitada . . . : s�
+   V�nculo: direcci�n IPv6 local. . . : fe80::5455:9ec3:9960:46f7%14(Preferido) 
+   Direcci�n IPv4. . . . . . . . . . . . . . : 192.168.20.70(Preferido) 
+   M�scara de subred . . . . . . . . . . . . : 255.255.254.0
+   Concesi�n obtenida. . . . . . . . . . . . : lunes, 13 de mayo de 2024 19:02:51
+   La concesi�n expira . . . . . . . . . . . : martes, 14 de mayo de 2024 19:02:51
+   Puerta de enlace predeterminada . . . . . : 192.168.20.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.20.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 358672810
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2C-5E-CF-81-60-E9-AA-CA-BF-A7
+   Servidores DNS. . . . . . . . . . . . . . : 192.168.20.1
+   Servidor WINS principal . . . . . . . . . : 192.168.1.250
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Conexi�n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec�fico para la conexi�n. . : 
+   Descripci�n . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Direcci�n f�sica. . . . . . . . . . . . . : 60-E9-AA-CA-BF-A8
+   DHCP habilitado . . . . . . . . . . . . . : s�
+   Configuraci�n autom�tica habilitada . . . : s�
+
+
+Andreu Orenga Ramon

@@ -1,0 +1,159 @@
+1- Linux esta escrito en:
+   
+-C
+
+2- El fin de bootloader es:
+
+- Cargar el kernel al encender la computadora
+
+3- UNIX fue inventado originalmente en:
+
+-AT&T Bell Labs
+
+4- De que distribucion deriva Ubuntu:
+
+- Debian
+
+5- Linux no es UNIX pq:
+
+- No ha sido objeto de certificacion
+
+6- Si una version de software esta en una etapa de muchas funciones nuevas que no han sido rigurosamente probados poe lo general se denomina software beta. Verdadero o Falso?
+
+- Verdadero
+
+7- El software es compatible con las versiones anteriores si:
+
+- Todavia es compatible con los formatos de archivo o aplicaciones antiguas
+
+8- La aplicacion Samba es:
+
+- Servidor de archivos
+
+9- Si quieres crear un blog, Que software seria mas util?
+
+- WordPress
+
+10- POP e IMAP se refieren a lo siguiente:
+
+- Correo electronico
+
+11- Un servidor probablemente se ejecute en modo grafico Verdadero o falso?
+
+- Falso
+
+12- Virtualizacion significa:
+
+- Un unico host puede dividirse en varios huespedes
+
+13- Si quieres almacenar nombres de usuario y las contraseñas para diferentes sitios web de una manera segura, puedes utilizar:
+
+- KeePassX
+
+14- Puedes configurar tu computadora para probar si hay actualizaciones de forma automatica Verdadero o Falso?
+
+- Verdadero
+
+15- Cual de las siguientes es una herramienta que te ayuda a anonimizar la navegacion por internet?
+
+- El union Router
+
+16- Los botones "me gusta" de las redes sociales pueden realizar un seguimiento de tu actividad a traves de internet  Verdadero o falso?
+
+- Verdadero
+
+17- Cuales son las compensaciones de aumentar el nivel de privacidad que tienes en tu navegador web?
+
+- Los sitios pueden no funcionar correctamente
+
+18- El punto y coma ";" se puede usar para separar varios comandos para que se ejecuten en orden ¿¡Verdadero o falso?
+
+- Verdadero
+
+19- Cual de los siguientes no es el caracteres glob?
+
+- El caracter de guin "-"
+
+20- Para poder ver los mensajes de salida en la pantalla, utilizamos el comando...
+
+- echo
+
+21- El comando ____ imprimira una lista de comandos que hayas ejecutado previamente
+
+- history
+
+22- El comando man-k es el mismo que el comando apropos ¿Verdadero o falso?
+
+- Verdadero
+
+23- El comando whatis es el mismo que man -w ¿Verdadero o falso?
+
+- Falso
+
+24- Que dos comandos de navegacion dentro de la pagina son utilizados por el comando man para controlar el movimiento dentro del documento?
+
+- more and less
+
+25- Si estas leyendo la sinopsis de un comando desde man page, entonces los elementos entre corchetes son:
+
+- Opcionales
+
+26- La seccion 5 de las paginas del manual cubre:
+
+- Formatos de archivo
+
+27- Para iniciar la busqueda de man page, la primera tecla que se presiona es:
+
+- /
+
+28- Que opcion para el comando ls mostrara todos los archivos, incluidos los ocultos?
+
+- -a
+
+29- La tilde "eñe" se utiliza para representar 
+
+- El directorio home del usuario
+
+30- El primer caracter en un listado largo (ls -l) indica:
+
+- Si algo es un archivo, directorio o enlace simbolico
+
+31- A donde se envian por defecto los mensajes de error generados por los comandos?
+
+- STDERR
+
+32- Un comando exitoso imprimira la salida a la STDOUT ¿Verdadero o Falso?
+
+- Verdadero
+
+33- Una barra vertical te permite...
+
+-... enviar la salida de un comando a otro
+
+34- Que opcion del comando head mostrara solo las primera cinco lineas de un archivo
+
+- -n 5
+
+35- Cual de los siguientes comandos mostrara solo las lineas que comienzan con start
+
+- grep ^start file.txt
+
+36- Un "copyleft provision" en una licencia de software significa:
+
+- Si redistribuyes el software, debes distribuir el codigo de los cambio s que realices
+
+37- La mayor diferencia entre las licencias GPLv2 y BSD es:
+
+- BSD no tiene ninguna provision copyleft
+
+38- Que significa cuando un trabajo se sube al dominio publico?
+
+- El autor ha renunciado a los derechos de autor sobre el trabajo
+
+39- La version de licencia Creative Commons de un dominio Publico es:
+
+- No Rights Reserved (sin derechos reservados)
+
+40- Tu empresa crea un firewall de hardware que ejcuta un kernel de Linux personalizado ¿Cuales son tus obligaciones bajo la GPLv2?
+
+- Debes hacer que la fuente de tu kernel sea disponible
